@@ -3,4 +3,4 @@ modifaid A
 add and commit at the same time 
 diff
 vscode
-git push
+3-way-merge
