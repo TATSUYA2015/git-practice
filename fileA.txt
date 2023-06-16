@@ -4,5 +4,3 @@ add and commit at the same time
 diff
 vscode
 git push
-
-git
