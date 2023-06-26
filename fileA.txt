@@ -7,3 +7,6 @@ vscode
 conflict
 squash
 rebase
+
+
+diff
