@@ -1,3 +1,4 @@
 hellow world
 modifaid A
 add and commit at the same time 
+diff
