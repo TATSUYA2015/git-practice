@@ -6,3 +6,4 @@ diff
 conflict
 squash
 rebase
+conflict
