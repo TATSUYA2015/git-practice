@@ -7,3 +7,5 @@ conflict
 squash
 rebase
 conflict
+
+3-way-merge
