@@ -12,3 +12,4 @@ conflict
 conflict
 squash
 rebase
+conflict
