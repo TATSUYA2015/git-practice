@@ -8,6 +8,7 @@ squash
 rebase
 conflict
 
+add and commit at the same time 
 diff
 3-way-merge
 conflict
