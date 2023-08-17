@@ -14,5 +14,6 @@ diff
 3-way-merge
 conflict
 squash
+squash
 rebase
 conflict
