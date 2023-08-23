@@ -12,6 +12,7 @@ modifaid A
 add and commit at the same time 
 diff
 3-way-merge
+3-way-merge
 conflict
 conflict
 squash
