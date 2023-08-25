@@ -18,4 +18,5 @@ conflict
 squash
 squash
 rebase
+rebase
 conflict
