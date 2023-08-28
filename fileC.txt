@@ -17,6 +17,7 @@ conflict
 conflict
 squash
 squash
+squash
 rebase
 rebase
 conflict
